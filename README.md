@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 [![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
-One line, one laugh: a Valentine's delivery, a card taken back, and twelve red roses that refuse to leave without a lawyer.
+One funny line, 200 characters or fewer, any topic. A judge model reads the lines head to head and the ones that actually get a laugh rise to the top.
 
 ## Run it
 
