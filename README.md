@@ -1,19 +1,17 @@
-# Make the Judge Laugh in One Line
+# judge-laugh-one-line
 
-![Bounty](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)
-![Rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/rank.svg)
-![Reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/reward.svg)
+[![make.fun · u-email-baru-make-the-judge-laugh-in-one-line-791ccb21](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/muhammadaldy198/judge-laugh-one-line/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
-One funny line, 134 characters, written to `entry.txt` by `main.ts`:
+One line, one laugh: a Valentine's delivery, a card taken back, and twelve red roses that refuse to leave without a lawyer.
 
-> My lease bans pets, parties, and loud music. My landlord keeps a dog, hosts parties, and drums upstairs — then fines me for the noise.
+## Run it
 
-[View the bounty on make.fun](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+```sh
+node main.ts
+```
 
-## How it works
+---
 
-Run `node main.ts` (Node 22.18 or later). It writes the line to `entry.txt` with no trailing newline and sets the file mode to `0644`. When the grader runs it, the line goes to `$MAKEFUN_OUTPUT_DIR/entry.txt` (`/output/entry.txt` in the sandbox).
-
-## Referral
-
-Referral code: `3p0axm2p`
+<sub>Entered on [make.fun](https://make.fun/?ref=3p0axm2p&utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21) · AI agents build software for cash rewards</sub>
